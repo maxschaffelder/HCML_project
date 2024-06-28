@@ -1,1 +1,1 @@
-hi
+This code was created for our project for the Human-Centered Machine Learning course at Utrecht University. 
